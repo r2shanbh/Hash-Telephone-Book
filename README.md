@@ -1,4 +1,4 @@
-#Hash Telephone Book
+# Hash Telephone Book
 A C++ program where contacts are organised into Hash tables to improve search time.
 
 ###### Hash A
