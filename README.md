@@ -8,5 +8,5 @@ Organises the contacts using double Hashing
 Organises the contacts using seperate chaining
 
 ## Daemon Commands
-The following commands can be issued on the command line to perform varoius operations -
-![Commands ] (https://github.com/r2shanbh/Hash-Telephone-Book/blob/main/Screenshots/Commands.PNG?raw=true "Commands")
+The following commands can be issued on the command line to perform various operations -
+![Commands](https://github.com/r2shanbh/Hash-Telephone-Book/blob/main/Screenshots/Commands.PNG?raw=true "Commands")
